@@ -1,0 +1,6 @@
+@Lenguyengiahuy_nhom8_HostAddress = http://localhost:5085
+
+GET {{Lenguyengiahuy_nhom8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
