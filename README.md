@@ -1,3 +1,4 @@
+
 GIỚI THIỆU HỆ THỐNG CHẤM CÔNG NHÂN VIÊN
 
 Hệ thống quản lý chấm công nhân viên được xây dựng nhằm giúp doanh nghiệp tối ưu hóa quy trình điểm danh và theo dõi thời gian làm việc của nhân sự một cách chính xác, an toàn và tiện lợi.
@@ -20,4 +21,4 @@ Hỗ trợ thiết lập thông tin ca làm việc, thời gian bắt đầu, th
 Ghi nhận thông tin vị trí, kinh độ, vĩ độ và độ chính xác tại thời điểm nhân viên chấm công hoặc chia sẻ vị trí trực tuyến.
 
 5. Lịch sử chấm công và báo cáo
-Lưu trữ chi tiết giờ vào, giờ ra, ghi chú và phương thức xác thực, giúp nhân viên dễ dàng tra cứu lịch sử làm việc cá nhân và giúp người quản lý thống kê dữ liệu chuyên cần nhanh chóng.
+
